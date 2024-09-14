@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidjourneyAPI.Core", "MidjourneyAPI.Core\MidjourneyAPI.Core.csproj", "{F8DA12AB-9A23-4E7A-8F92-6807BD11C3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidjourneyAPI.Web", "MidjourneyAPI.Web\MidjourneyAPI.Web.csproj", "{D2847C94-B5CE-45C3-8174-C9F5D826099F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midjouryney.CLI", "Midjouryney.CLI\Midjouryney.CLI.csproj", "{9A37EB84-9799-4303-B466-7227E2119031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DA12AB-9A23-4E7A-8F92-6807BD11C3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DA12AB-9A23-4E7A-8F92-6807BD11C3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DA12AB-9A23-4E7A-8F92-6807BD11C3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DA12AB-9A23-4E7A-8F92-6807BD11C3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2847C94-B5CE-45C3-8174-C9F5D826099F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2847C94-B5CE-45C3-8174-C9F5D826099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2847C94-B5CE-45C3-8174-C9F5D826099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2847C94-B5CE-45C3-8174-C9F5D826099F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A37EB84-9799-4303-B466-7227E2119031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A37EB84-9799-4303-B466-7227E2119031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A37EB84-9799-4303-B466-7227E2119031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A37EB84-9799-4303-B466-7227E2119031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

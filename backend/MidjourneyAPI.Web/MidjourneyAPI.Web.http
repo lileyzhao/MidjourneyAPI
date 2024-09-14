@@ -1,0 +1,6 @@
+@MidjourneyAPI.Web_HostAddress = http://localhost:5270
+
+GET {{MidjourneyAPI.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
